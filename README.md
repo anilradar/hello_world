@@ -1,13 +1,3 @@
-# hello_world
-My1stRepository
-Hello Anil, Welcome to the GitHub_world..!!
-This line is edited by Anil..!!!
-
-## Copilot suggested code for system uptime
-#!/bin/bash
-echo "system uptime information"
-uptime
-uptime -p  # Suggested a typo here
 
 ## Copilot suggestec code for checking the system update using python script
 
@@ -59,3 +49,4 @@ def get_uptime():
 if __name__ == "__main__":
     print(get_uptime())
 
+i have not modified anything and tested using the command "python3 copilot_test.py"
